@@ -1,11 +1,12 @@
 # Chat Application
 
-This project implements a simple client-server-based chat application that facilitates communication between multiple clients. The server acts as a central hub, relaying messages between connected clients.
+This project implements a simple client-server-based chat application that facilitates communication between multiple clients. The server acts as a central hub, relaying messages between connected clients. Multithreading has been used to facilitate parallel communication, ensuring efficient handling of multiple clients simultaneously.
 
 ## Features
 - Real-time communication between clients
 - Lightweight and efficient
 - Easy to set up and run
+- Supports parallel communication using multithreading
 
 ## Prerequisites
 Make sure you have the following installed:
