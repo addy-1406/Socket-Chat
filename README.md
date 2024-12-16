@@ -1,4 +1,4 @@
-# Chat Application
+# Socket-based Chat Application
 
 This project implements a simple client-server-based chat application that facilitates communication between multiple clients. The server acts as a central hub, relaying messages between connected clients. Multithreading has been used to facilitate parallel communication, ensuring efficient handling of multiple clients simultaneously.
 
